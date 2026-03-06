@@ -73,7 +73,7 @@ flexDirection: isTablet() ? 'row' : 'column'
 
 ---
 
-## Complete Storefront Example
+## Complete Example
 
 ```tsx
 import React from 'react';
